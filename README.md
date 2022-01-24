@@ -5,7 +5,7 @@ Technologies used:
 - SwiftUI 3
 - Combine
 - Swift 5.5 async / await network calls
-- Multithreading
+- Multithreading (Tasks API)
 - UIKit (used for listening to card reader device which acts as a USB keyboard)
 
 Features:
